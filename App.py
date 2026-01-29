@@ -4,7 +4,7 @@ import google.generativeai as genai
 # ==========================================
 #  ZONA DE CONFIGURACIÓN
 # ==========================================
-MI_API_KEY = "AIzaSyD2ULijrtPY58U5NSBAj43oUHvybvc2flU".strip()
+MI_API_KEY = "Tu_api_key".strip()
 # ==========================================
 
 # 1. Configuración de página
