@@ -1,11 +1,11 @@
 
-#  CodeMorph Auto: Asistente de Código con IA
+#  CodeCraft Auto: Asistente de Código con IA
 
 > Una herramienta potente para **traducir** y **explicar** código utilizando la inteligencia artificial de Google Gemini.
 
 ## Descripción
 
-**CodeMorph Auto** es una aplicación web construida con Python y Streamlit que actúa como tu compañero de programación. Utiliza la API de Google Generative AI para entender código complejo y convertirlo a otros lenguajes o explicártelo paso a paso en español.
+**CodeCraft Auto** es una aplicación web construida con Python y Streamlit que actúa como tu compañero de programación. Utiliza la API de Google Generative AI para entender código complejo y convertirlo a otros lenguajes o explicártelo paso a paso en español.
 
 A diferencia de otros scripts, esta versión incluye **Detección Automática de Modelos**, lo que evita errores de compatibilidad (como el error 404) ajustándose automáticamente a la versión de Gemini que tu cuenta tenga habilitada 
 
