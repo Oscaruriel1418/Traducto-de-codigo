@@ -45,7 +45,7 @@ Antes de empezar, asegúrate de tener instalado:
 
     ```python
     # app.py
-    MI_API_KEY = "AIzaSyD2..." # <- Tu clave real aquí
+    MI_API_KEY = "Tu_api_key..." # <- Tu clave real aquí
     ```
 
     > **Nota:** El código incluye una función `.strip()` para limpiar espacios en blanco accidentales al copiar y pegar.
