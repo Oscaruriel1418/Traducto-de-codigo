@@ -1,4 +1,3 @@
-# Traducto-de-codigo
 
 #  CodeMorph Auto: Asistente de Código con IA
 
@@ -51,7 +50,7 @@ Antes de empezar, asegúrate de tener instalado:
 
     > **Nota:** El código incluye una función `.strip()` para limpiar espacios en blanco accidentales al copiar y pegar.
 
-## ▶️ Cómo Ejecutar
+##  Cómo Ejecutar
 
 Una vez configurada la clave, ejecuta el siguiente comando en tu terminal:
 
